@@ -2,7 +2,7 @@
 
 ## About Me
 * 🔭 I'm currently working on **Enterprise Odoo Migrations** (v15 → v17), **DevOps Integrations With Coolify**, and **Customs Odoo Developments**
-* 🏢 Specializing in **Business Process Optimization** and **client Relationship Management** through technical solutions
+* 🏢 Specializing in **Business Process Optimization** and **Client Relationship Management** through technical solutions
 * 🌱 Continuously expanding my expertise in **JavaScript**, **Docker**, and **Advanced Python Development**
 * 💼 Focused on delivering **Scalable ERP Solutions** and **Automated Deployment Workflows**
 * 🎯 Passionate about bridging the gap between business requirements and technical implementation
